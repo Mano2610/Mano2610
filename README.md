@@ -1,6 +1,6 @@
 👋 Hi, I’m Mano, completed my Master's in AI
 
-👀 I’m interested in Data Science, Machine Learning
+👀 I’m interested in Data Science & Machine Learning
 
 💞️ I loves to research and likes to learn about new techs
 
